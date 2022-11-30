@@ -1,0 +1,10 @@
+
+body {
+    font-family: "Raleway", sans-serif;
+  }
+#Hero-Section {
+    background-image: url("../assets/imgs/bg-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
